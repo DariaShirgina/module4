@@ -45,12 +45,10 @@
 # # На вход подается строка, все символы находятся в нижнем регистре и без пробелов.
 # # Напишите функцию, которая будет возвращать True, если строка является палиндромом и False, если строка палиндромом не является.
 
-str = input("Введите строку: ")
-
-def palindrome(str):
-    return str[::-1] == str
-# print(str)
-# print(str[::-1])
-print (palindrome(str))
+# str = input("Введите строку: ")
+#
+# def palindrome(str):
+#     return str[::-1] == str
+# print (palindrome(str))
 
 
